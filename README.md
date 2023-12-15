@@ -6,6 +6,10 @@ Bem-vindo ao Self-Service Machine, meu primeiro projeto Vue.js! 🚀✨
 
 Explore a simplicidade e interatividade desta aplicação desenvolvida com Vue.js, projetada para facilitar a compra de lanches. 🍟🥤
 
+<div>
+  <img src="./img/hamburgaria.jpg">
+</div>
+
 ## Funcionalidades 🔧
 
 - **Adicione Lanches:** Utilize nossa intuitiva página única para adicionar seus lanches favoritos à sua lista de compras.
